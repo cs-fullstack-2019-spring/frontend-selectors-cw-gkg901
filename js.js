@@ -32,4 +32,4 @@ h1Color.style.color = "blue";
 // Change the color of the last p tag to yellow.
 
 var lastPtag = document.getElementById("last");
-lastPtag.style.background = "yellow";
+lastPtag.style.color= "yellow";
